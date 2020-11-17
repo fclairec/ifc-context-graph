@@ -39,7 +39,7 @@ namespace Test
         public static void Main(string[] args)
         {
             string fileName = args[0];
-            string[] files = Directory.GetFiles("C:\\Users\\z003xcwc\\polybox\\MA_BIM\\Ifc_files\\data_raw_tagged", "*.ifc");
+            string[] files = Directory.GetFiles("C:\\Projekte\\ContextGraph\\input", "*.ifc");
             int tot_files = files.Count();
             Console.WriteLine("Total files:");
             Console.WriteLine(tot_files);
@@ -61,8 +61,9 @@ namespace Test
                     string temp = Path.GetFileNameWithoutExtension(fileName);
                     string temp2 = Path.GetDirectoryName(fileName);
                     string outputDir = Path.Combine(temp2, temp) + "neighbourhoods.csv";
-                    //if (File.Exists(outputDir)) continue;
-                    Console.WriteLine("Processing file:");
+                    string outputGraph = Path.Combine(temp2, temp) + "contextgraph.xml";
+                //if (File.Exists(outputDir)) continue;
+                Console.WriteLine("Processing file:");
                     Console.WriteLine(temp);
 
                     try
@@ -125,8 +126,17 @@ namespace Test
 
 
                         }
-                        //Console.WriteLine(MyBuildingComponents);
-                        List<TriangleMesh> resList = new List<TriangleMesh>();
+                    //Console.WriteLine(MyBuildingComponents);
+
+                    StringBuilder sb = new StringBuilder();
+                    sb.AppendLine(
+                        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<graphml xmlns=\"http://graphml.graphdrawing.org/xmlns\">");
+                    //sb.AppendLine("<key id=\"V-~VDLabel\" for=\"node\" attr.name=\"~VDLabel\" attr.type=\"string\" />\r\n  <key id=\"V-~VDRadius\" for=\"node\" attr.name=\"~VDRadius\" attr.type=\"string\" />\r\n  <key id=\"E-~EDLabel\" for=\"edge\" attr.name=\"~EDLabel\" attr.type=\"string\" />");
+                    sb.AppendLine("<graph edgedefault=\"directed\">");
+
+
+
+                    List<TriangleMesh> resList = new List<TriangleMesh>();
                         foreach (KeyValuePair<int, BuildingComponents> component in MyBuildingComponents)
                         {
                             IEnumerable<KeyValuePair<int, Triangles>> triangles = MyTriangles.Where(t => t.Value.ComponentId == component.Key).ToList();
@@ -200,8 +210,15 @@ namespace Test
                         IDirectionalOperators directionalOp = _container.Resolve<IDirectionalOperators>();
                         ITouchOperator touchingOp = _container.Resolve<ITouchOperator>();
 
+                        StringBuilder edgestrings = new StringBuilder();
+
                         foreach (TriangleMesh item1 in resList)
                         {
+                            // define edge for every item
+                            //sb.AppendFormat("<node id=\"{0}\">\r\n<data key=\"V-~VDLabel\">{0}</data>\r\n<data key=\"V-~VDRadius\">5</data>\r\n</node>" + Environment.NewLine, item1.Name);
+                            sb.AppendFormat("<node id=\"{0}\" />" + Environment.NewLine, item1.Name);
+
+
                             //loop over all elements again
                             foreach (TriangleMesh item2 in resList)
                             {
@@ -211,30 +228,48 @@ namespace Test
                             {
                                 touchingelement = touchingOp.Touch(item1, item2);
                             }
-                            catch (Exception exeption)
+                            catch (Exception)
                             {
-                                //logging goes here
-                                
                                 continue;
-                                
                             }
 
                             if (!touchingelement) continue;
 
-                                var nameOfIntersect = item2.ToString().Split(new[] { "_" }, StringSplitOptions.None)[0];
-                                WriteSpaceRow(item1.ToString(), outputDir, nameOfIntersect);
+                            if (directionalOp.AboveOfStrict(item1, item2))
+                            {
+                                edgestrings.AppendFormat("<edge id=\"{0}\" source=\"{1}\" target=\"{2}\" />" + Environment.NewLine, "e" + item1.Name + item2.Name, item1.Name, item2.Name);
+                            }
+                            if (directionalOp.BelowOfStrict(item1, item2))
+                            {
+                                edgestrings.AppendFormat("<edge id=\"{0}\" source=\"{1}\" target=\"{2}\" />" + Environment.NewLine, "e" + item2.Name + item1.Name, item2.Name, item1.Name);
+                            }
+
+
+                            var nameOfIntersect = item2.ToString().Split(new[] { "_" }, StringSplitOptions.None)[0];
+                            WriteSpaceRow(item1.ToString(), outputDir, nameOfIntersect);
 
                             }
 
                         }
                         Console.WriteLine("Reached end of spatial intersection search");
 
+                        sb.AppendLine(edgestrings.ToString());
+                        sb.AppendLine("</graph>\r\n</graphml>");
+                        File.WriteAllText(outputGraph, sb.ToString());
+                        Console.WriteLine("XML written?");
 
-                    }
-                    catch (Exception exception)
+
+
+
+                }
+
+                catch (Exception exception)
                     {
                         Console.WriteLine(exception);
                     }
+                    
+
+                    
                 
             }
             catch (Exception exception)

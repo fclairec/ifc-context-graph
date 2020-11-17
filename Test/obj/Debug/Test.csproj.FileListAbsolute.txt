@@ -1,0 +1,191 @@
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Test.exe.config
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Test.exe
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Test.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\QL4BIMspatial.dll
+C:\Users\z003xcwc\Desktop\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\z003xcwc\Desktop\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\z003xcwc\Desktop\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\z003xcwc\Desktop\Test\Test\obj\Debug\Test.exe
+C:\Users\z003xcwc\Desktop\Test\Test\obj\Debug\Test.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Esent.Interop.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\IfcImporter.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Buffers.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Memory.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Common.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc2x3.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc4.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.Esent.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.MemoryModel.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Tessellator.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Esent.Interop.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Esent.Interop.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\IfcImporter.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\IfcImporter.dll.config
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Buffers.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Memory.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Common.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Common.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc2x3.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc2x3.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc4.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Ifc4.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.Esent.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.Esent.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.MemoryModel.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.IO.MemoryModel.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Tessellator.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Tessellator.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\MathNet.Numerics.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Unity.Abstractions.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Unity.Container.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Unity.Abstractions.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Unity.Container.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Geometry.Engine.Interop.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.ModelGeometry.Scene.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Geometry.Engine.Interop.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.Geometry.Engine.Interop.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.ModelGeometry.Scene.pdb
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Xbim.ModelGeometry.Scene.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\CsvHelper.dll
+C:\Users\z003xcwc\Desktop\Test\Test\bin\Debug\CsvHelper.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Test.exe
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Test.pdb
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Test.exe.config
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\CsvHelper.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Esent.Interop.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Buffers.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Memory.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Common.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Geometry.Engine.Interop.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Ifc.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Ifc2x3.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Ifc4.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.IO.Esent.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.IO.MemoryModel.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.ModelGeometry.Scene.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\bin\Debug\Xbim.Tessellator.xml
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.csproj.Fody.CopyLocal.cache
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.exe
+C:\Users\z003xcwc\polybox\MA_BIM\neighbours\Test\obj\Debug\Test.pdb
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\02-C#neighborhood-features\neighbourhood_features\neighbourhood_features\Test\obj\Debug\Test.exe
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\02-C#neighborhood-features\neighbourhood_features\neighbourhood_features\Test\obj\Debug\Test.pdb
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Test.exe.config
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Test.exe
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Test.pdb
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\CsvHelper.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Esent.Interop.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\System.Buffers.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\System.Memory.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Common.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Geometry.Engine.Interop.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Ifc.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Ifc2x3.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Ifc4.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.IO.Esent.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.IO.MemoryModel.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.ModelGeometry.Scene.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\bin\Debug\Xbim.Tessellator.xml
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.csproj.Fody.CopyLocal.cache
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.exe
+C:\Users\ge37mof\OneDrive - tum.de\Dokumente\Python Scripts\02-C#neighborhood-features\neighbourhood_features\Test\obj\Debug\Test.pdb
+C:\Projekte\Test\Test\bin\Debug\Test.exe.config
+C:\Projekte\Test\Test\bin\Debug\Test.exe
+C:\Projekte\Test\Test\bin\Debug\Test.pdb
+C:\Projekte\Test\Test\bin\Debug\CsvHelper.xml
+C:\Projekte\Test\Test\bin\Debug\Esent.Interop.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Projekte\Test\Test\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Projekte\Test\Test\bin\Debug\System.Buffers.xml
+C:\Projekte\Test\Test\bin\Debug\System.Memory.xml
+C:\Projekte\Test\Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Projekte\Test\Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projekte\Test\Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Common.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Geometry.Engine.Interop.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Ifc.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Ifc2x3.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Ifc4.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.IO.Esent.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.IO.MemoryModel.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.ModelGeometry.Scene.xml
+C:\Projekte\Test\Test\bin\Debug\Xbim.Tessellator.xml
+C:\Projekte\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Projekte\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Projekte\Test\Test\obj\Debug\Test.csproj.Fody.CopyLocal.cache
+C:\Projekte\Test\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Projekte\Test\Test\obj\Debug\Test.exe
+C:\Projekte\Test\Test\obj\Debug\Test.pdb

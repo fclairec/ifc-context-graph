@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<graph edgedefault="directed">
+<node id="IfcDoor_1Oms875aH3Wg$9l65H2ZGw" />
+<node id="IfcDoor_0pGAjlJMP3ifYPATVF5xAR" />
+<node id="IfcDoor_2qiPPF3FrF8OIqfrKiSUqm" />
+<node id="IfcDoor_2jTRqchjf7oB0yhQ6462T0" />
+<node id="IfcDoor_1M$gxUrX1Fiwe3P64ww7U5" />
+<node id="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" />
+<node id="IfcSlab_2RGlQk4xH47RHK93zcTzUL" />
+<node id="IfcSlab_07Enbsqm9C7AQC9iyBwfSD" />
+<node id="IfcSlab_2IxUUNUVPB6Ob$eicCfP2N" />
+<node id="IfcStair_38a9vdh9bF5Qg28GWyHhlr" />
+<node id="IfcWallStandardCase_2XPyKWY018sA1ygZKgQPtU" />
+<node id="IfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" />
+<node id="IfcWallStandardCase_2ptk1k7qn8_Qk22vjh$0DE" />
+<node id="IfcWallStandardCase_3jjW3rL656ex34Gws22EfM" />
+<node id="IfcWallStandardCase_1$wmdwWPjDYuku_ghVkynE" />
+<node id="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" />
+<node id="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" />
+<node id="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" />
+<node id="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" />
+<node id="IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" />
+<node id="IfcWallStandardCase_25OWQvmXj5BPgyergP43tY" />
+<node id="IfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" />
+<node id="IfcWallStandardCase_3Ttjr$59XEWfWN1WUHjelZ" />
+<node id="IfcWindow_1srAI$R4T8ihLXSNHmUSET" />
+<node id="IfcWindow_0B1RwEzzP3CfME5NR$Vqh5" />
+<node id="IfcWindow_25nJxEpYf8LRDJNkMUVO0m" />
+<node id="IfcWindow_3BFcylCsX74PQAoRAe5fNv" />
+<node id="IfcWindow_13aSY79zb8fP4HApEJ0z_e" />
+<node id="IfcWindow_2EQh_jhP1B_A_AMuSJc5E0" />
+<node id="IfcWindow_1TAI4ouKX4Xx4lBDZIu5qM" />
+<node id="IfcWindow_2Q9w7oRXP249jBobEMVqlZ" />
+<node id="IfcWindow_1DiYqhfzH9xxuJdVHwXCNa" />
+<node id="IfcWindow_1zOBw0Gej5Wf0QAJfHnOc0" />
+<node id="IfcWindow_2ACmFFQhT1Ouf0x4YRUh9m" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcDoor_1Oms875aH3Wg$9l65H2ZGw" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcDoor_1Oms875aH3Wg$9l65H2ZGw" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcDoor_0pGAjlJMP3ifYPATVF5xAR" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcDoor_0pGAjlJMP3ifYPATVF5xAR" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcDoor_2qiPPF3FrF8OIqfrKiSUqm" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcDoor_2qiPPF3FrF8OIqfrKiSUqm" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcDoor_2jTRqchjf7oB0yhQ6462T0" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcDoor_2jTRqchjf7oB0yhQ6462T0" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcDoor_1M$gxUrX1Fiwe3P64ww7U5" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcDoor_1M$gxUrX1Fiwe3P64ww7U5" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_2XPyKWY018sA1ygZKgQPtU" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_2XPyKWY018sA1ygZKgQPtU" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_2ptk1k7qn8_Qk22vjh$0DE" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_2ptk1k7qn8_Qk22vjh$0DE" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_3jjW3rL656ex34Gws22EfM" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_3jjW3rL656ex34Gws22EfM" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_1$wmdwWPjDYuku_ghVkynE" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_1$wmdwWPjDYuku_ghVkynE" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" />
+<edge id="eIfcSlab_1pPHnf7cXCpPsNEnQf8_6BIfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" source="IfcSlab_1pPHnf7cXCpPsNEnQf8_6B" target="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" />
+<edge id="eIfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2ZIfcSlab_2RGlQk4xH47RHK93zcTzUL" source="IfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" target="IfcSlab_2RGlQk4xH47RHK93zcTzUL" />
+<edge id="eIfcWallStandardCase_2ptk1k7qn8_Qk22vjh$0DEIfcSlab_2RGlQk4xH47RHK93zcTzUL" source="IfcWallStandardCase_2ptk1k7qn8_Qk22vjh$0DE" target="IfcSlab_2RGlQk4xH47RHK93zcTzUL" />
+<edge id="eIfcWallStandardCase_3jjW3rL656ex34Gws22EfMIfcSlab_2RGlQk4xH47RHK93zcTzUL" source="IfcWallStandardCase_3jjW3rL656ex34Gws22EfM" target="IfcSlab_2RGlQk4xH47RHK93zcTzUL" />
+<edge id="eIfcWallStandardCase_1$wmdwWPjDYuku_ghVkynEIfcSlab_2RGlQk4xH47RHK93zcTzUL" source="IfcWallStandardCase_1$wmdwWPjDYuku_ghVkynE" target="IfcSlab_2RGlQk4xH47RHK93zcTzUL" />
+<edge id="eIfcWallStandardCase_25OWQvmXj5BPgyergP43tYIfcSlab_07Enbsqm9C7AQC9iyBwfSD" source="IfcWallStandardCase_25OWQvmXj5BPgyergP43tY" target="IfcSlab_07Enbsqm9C7AQC9iyBwfSD" />
+<edge id="eIfcWallStandardCase_3Ttjr$59XEWfWN1WUHjelZIfcSlab_2IxUUNUVPB6Ob$eicCfP2N" source="IfcWallStandardCase_3Ttjr$59XEWfWN1WUHjelZ" target="IfcSlab_2IxUUNUVPB6Ob$eicCfP2N" />
+<edge id="eIfcDoor_1Oms875aH3Wg$9l65H2ZGwIfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" source="IfcDoor_1Oms875aH3Wg$9l65H2ZGw" target="IfcWallStandardCase_3PfS__Y_DBAfq5naM6zD2Z" />
+<edge id="eIfcWallStandardCase_3rPX_Juz59peXXY6wDJl18IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" source="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" target="IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" />
+<edge id="eIfcWallStandardCase_3rPX_Juz59peXXY6wDJl18IfcWindow_1srAI$R4T8ihLXSNHmUSET" source="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" target="IfcWindow_1srAI$R4T8ihLXSNHmUSET" />
+<edge id="eIfcWindow_1srAI$R4T8ihLXSNHmUSETIfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" source="IfcWindow_1srAI$R4T8ihLXSNHmUSET" target="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" />
+<edge id="eIfcWindow_0B1RwEzzP3CfME5NR$Vqh5IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" source="IfcWindow_0B1RwEzzP3CfME5NR$Vqh5" target="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" />
+<edge id="eIfcWallStandardCase_16DNNqzfP2thtfaOflvsKAIfcWallStandardCase_3Ttjr$59XEWfWN1WUHjelZ" source="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" target="IfcWallStandardCase_3Ttjr$59XEWfWN1WUHjelZ" />
+<edge id="eIfcWallStandardCase_16DNNqzfP2thtfaOflvsKAIfcWindow_25nJxEpYf8LRDJNkMUVO0m" source="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" target="IfcWindow_25nJxEpYf8LRDJNkMUVO0m" />
+<edge id="eIfcWindow_25nJxEpYf8LRDJNkMUVO0mIfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" source="IfcWindow_25nJxEpYf8LRDJNkMUVO0m" target="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" />
+<edge id="eIfcWallStandardCase_16DNNqzfP2thtfaOflvsKAIfcWindow_3BFcylCsX74PQAoRAe5fNv" source="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" target="IfcWindow_3BFcylCsX74PQAoRAe5fNv" />
+<edge id="eIfcWindow_3BFcylCsX74PQAoRAe5fNvIfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" source="IfcWindow_3BFcylCsX74PQAoRAe5fNv" target="IfcWallStandardCase_16DNNqzfP2thtfaOflvsKA" />
+<edge id="eIfcWallStandardCase_25fsbPyk15VvuXI$yNKenKIfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" source="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" target="IfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" />
+<edge id="eIfcWallStandardCase_25fsbPyk15VvuXI$yNKenKIfcWindow_2EQh_jhP1B_A_AMuSJc5E0" source="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" target="IfcWindow_2EQh_jhP1B_A_AMuSJc5E0" />
+<edge id="eIfcWindow_2EQh_jhP1B_A_AMuSJc5E0IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" source="IfcWindow_2EQh_jhP1B_A_AMuSJc5E0" target="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" />
+<edge id="eIfcWallStandardCase_1bzfVsJqn8De5PukCrqylzIfcWallStandardCase_25OWQvmXj5BPgyergP43tY" source="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" target="IfcWallStandardCase_25OWQvmXj5BPgyergP43tY" />
+<edge id="eIfcWallStandardCase_1bzfVsJqn8De5PukCrqylzIfcWindow_1TAI4ouKX4Xx4lBDZIu5qM" source="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" target="IfcWindow_1TAI4ouKX4Xx4lBDZIu5qM" />
+<edge id="eIfcWindow_1TAI4ouKX4Xx4lBDZIu5qMIfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" source="IfcWindow_1TAI4ouKX4Xx4lBDZIu5qM" target="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" />
+<edge id="eIfcWallStandardCase_1bzfVsJqn8De5PukCrqylzIfcWindow_1DiYqhfzH9xxuJdVHwXCNa" source="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" target="IfcWindow_1DiYqhfzH9xxuJdVHwXCNa" />
+<edge id="eIfcWindow_1DiYqhfzH9xxuJdVHwXCNaIfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" source="IfcWindow_1DiYqhfzH9xxuJdVHwXCNa" target="IfcWallStandardCase_1bzfVsJqn8De5PukCrqylz" />
+<edge id="eIfcWallStandardCase_3rPX_Juz59peXXY6wDJl18IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" source="IfcWallStandardCase_3rPX_Juz59peXXY6wDJl18" target="IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" />
+<edge id="eIfcWindow_1zOBw0Gej5Wf0QAJfHnOc0IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" source="IfcWindow_1zOBw0Gej5Wf0QAJfHnOc0" target="IfcWallStandardCase_0knNIAVBPBFvBy_m5QVHsU" />
+<edge id="eIfcWallStandardCase_25fsbPyk15VvuXI$yNKenKIfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" source="IfcWallStandardCase_25fsbPyk15VvuXI$yNKenK" target="IfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" />
+<edge id="eIfcWindow_2ACmFFQhT1Ouf0x4YRUh9mIfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" source="IfcWindow_2ACmFFQhT1Ouf0x4YRUh9m" target="IfcWallStandardCase_3VCarUKgH1buLo22Ozxe6J" />
+
+</graph>
+</graphml>
