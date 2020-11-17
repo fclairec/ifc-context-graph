@@ -1,9 +1,0 @@
-FROM mono:latest
-COPY . /src
-RUN msbuild /src/IfcMinimizer/IfcMinimizer.csproj /p:Configuration=Release
-RUN find /src/IfcMinimizer -print
-
-RUN mv /src/IfcMinimizer/bin/Release /app/
-WORKDIR /app
-ENTRYPOINT ["mono", "./IfcMinimizer.exe"]
-CMD ["--help"]
